@@ -59,6 +59,8 @@
 
 ## Проекты <span id="projects"></span>
 - [ЕМИАС (Backend)](https://emias.info/) Стек: Java
+- Админ панель для сети аптек "Фармакопейка" Стек Vue3
+- Админ панель для сервиса по подбору персонала Стек Vue3
 - [Приложение для кофейни Scuatov Coffee ( IOS/Android )](https://apps.apple.com/ru/app/skuratov-%D1%81offee/id6447075283) Стек: Flutter
 - Админка и приложение для бармена Scuratov Coffee ( Web ) Стек: Vue2/Vue3(TS)
 - [Consulty ( Web & Mobile )](https://www.consulty.online/) Стек: Next/React Native(TS)
