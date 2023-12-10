@@ -20,6 +20,8 @@
   + Frontend/Mobile разработчик</li>
   + LVL: Middle/Middle+</li>
 
+[Проекты, в разработке которых я принимал участие](#projects)
+
 <h3>Технологический стек</h3>
 
 + Dev(Frontend)
@@ -54,6 +56,16 @@
 Языки на которых писал:
 
 + Java
+
+## Проекты <span id="projects"></span>
+- [ЕМИАС (Backend)](https://emias.info/) Стек: Java
+- [Приложение для кофейни Scuatov Coffee ( IOS/Android )](https://apps.apple.com/ru/app/skuratov-%D1%81offee/id6447075283) Стек: Flutter
+- Админка и приложение для бармена Scuratov Coffee ( Web ) Стек: Vue2/Vue3(TS)
+- [Consulty ( Web & Mobile )](https://www.consulty.online/) Стек: Next/React Native(TS)
+- Криптокошелек Abel | Web3 Стек: React Native(TS)
+- [Приложение для телевизора Samsung/LG/Android TV IPYesTv](https://ipyes.tv/home) Стек: React/React Native(TS)
+- [Приложение-квиз DSE(IOS/Android)](https://apps.apple.com/ru/app/dse/id1658488662) Стек: React Native(TS)
+- [Приложение для доставки еды Kchrmarket(IOS/Android)](https://apps.apple.com/ru/app/kchrmarket/id6450483767) Стек: React Native(JS)
 
 <h3>Контакты</h3>
 <div id="badges">
